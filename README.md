@@ -1,4 +1,4 @@
-# DesafioDeProgramacao
+# Desafio de Programação
 
 # Programas:
 
@@ -16,8 +16,8 @@ Questao03Test.java;
 
 Para rodar as aplicação pelo terminal basta digitar: java -jar Questao01.java
 ou
-Pelo ambiente da IDE: marcar a classe que deseja rodar e clicar no botão de Run
+pelo ambiente da IDE: marcar a classe que deseja rodar e clicar no botão de Run.
 
 # Tecnologias utilizadas:
 
-Java 8 e JUnit 4
+Java 8 e JUnit 4.
