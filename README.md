@@ -1,23 +1,29 @@
 # Desafio de Programação
 
-# Programas:
+## Programas:
 
-Questao01.java;
-Questao02.java;
-Questao03.java;
+- Questao01.java;
+- Questao02.java;
+- Questao03.java;
 
-# Testes dos programas:
+---
 
-Questao01Test.java;
-Questao02Test.java;
-Questao03Test.java;
+## Testes dos programas:
 
-# Instrução pra Rodar os programas:
+- Questao01Test.java;
+- Questao02Test.java;
+- Questao03Test.java;
 
-Para rodar as aplicação pelo terminal basta digitar: java -jar Questao01.java
-ou
-pelo ambiente da IDE: marcar a classe que deseja rodar e clicar no botão de Run.
+---
 
-# Tecnologias utilizadas:
+## Instrução pra Rodar os programas:
 
-Java 8 e JUnit 4.
+- Para rodar as aplicações pelo terminal basta digitar: java -jar Questao01.java (como nesse exemplo, basta trocar o nome dos programas)
+- Para rodar as aplicações peloambiente da IDE: marcar a classe que deseja rodar e clicar no botão de Run
+
+---
+
+## Tecnologias utilizadas:
+
+- Java 8; e
+- JUnit 4.
