@@ -2,15 +2,15 @@
 
 # Programas:
 
-Questao01.java
-Questao02.java
-Questao03.java
+Questao01.java;
+Questao02.java;
+Questao03.java;
 
 # Testes dos programas:
 
-Questao01Test.java
-Questao02Test.java
-Questao03Test.java
+Questao01Test.java;
+Questao02Test.java;
+Questao03Test.java;
 
 # Instrução pra Rodar os programas:
 
